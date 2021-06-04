@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Def for managing flights'
+define service Zui_rap_flights {
+  expose ZI_RAP_CONNECTION_R as Connection;
+}
